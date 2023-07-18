@@ -1,3 +1,5 @@
+consider new design for uls' links
+
 consider moving abt ids to bellow and abt baseball to top
 
 https://twitter.com/isoudapaz/status/1670894719516262401
